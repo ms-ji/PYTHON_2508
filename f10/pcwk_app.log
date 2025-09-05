@@ -1,0 +1,5 @@
+25-08-07 12:32:31[DEBUG] f09_log_test.py 8 debug99 메시지
+25-08-07 12:32:31[INFO] f09_log_test.py 9 debug99 메시지
+25-08-07 12:32:31[WARNING] f09_log_test.py 10 debug99 메시지
+25-08-07 12:32:31[ERROR] f09_log_test.py 11 debug99 메시지
+25-08-07 12:32:31[CRITICAL] f09_log_test.py 12 debug99 메시지

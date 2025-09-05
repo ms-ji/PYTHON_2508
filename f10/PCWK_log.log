@@ -1,0 +1,4 @@
+25-08-07 12:22:05[INFO] f08_logging_format.py 16 debug 메시지
+25-08-07 12:22:05[WARNING] f08_logging_format.py 17 debug 메시지
+25-08-07 12:22:05[ERROR] f08_logging_format.py 18 debug 메시지
+25-08-07 12:22:05[CRITICAL] f08_logging_format.py 19 debug 메시지

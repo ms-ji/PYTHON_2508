@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "이상무",
+        "age": 22,
+        "email": "mmm@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "홍당무",
+        "age": 20,
+        "email": "mmm@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "영희",
+        "age": 28,
+        "email": "mmm@gmail.com"
+    }
+]
